@@ -11,6 +11,8 @@ Controles:
   
   -Left click to shoot
   
+  -R key to reload weapon
+  
   -E to pickup coin and buy weapon
   
 
